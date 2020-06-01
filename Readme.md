@@ -15,7 +15,7 @@ This challenge inspired us to believe in a great future for the world, trying to
 _Project Demo_
 (https://youtu.be/0ZjzuhSDcxc)
 
-_Access the aplication
+_Access the aplication_
 (www.covidexod.us)
 
 

@@ -16,6 +16,8 @@ _Project Demo_
 video de 30 seg
 www.covidexod.us
 
+*Usuário: umbler  Senha: testehospedagem*
+
 _Project Code_
 [Git](https://github.com/CovidExodus/CovidExodusPrototype)
 
